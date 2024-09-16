@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "first_name": "Shurlock",
+    "last_name": "Payle",
+    "email": "spayle0@msn.com",
+    "gender": "Male"
+  },
+  {
+    "id": 2,
+    "first_name": "Gabby",
+    "last_name": "Houndsom",
+    "email": "ghoundsom1@wikia.com",
+    "gender": "Male"
+  },
+  {
+    "id": 3,
+    "first_name": "Winston",
+    "last_name": "Waitland",
+    "email": "wwaitland2@ehow.com",
+    "gender": "Male"
+  },
+  {
+    "id": 4,
+    "first_name": "Ruddie",
+    "last_name": "Braidman",
+    "email": "rbraidman3@flavors.me",
+    "gender": "Male"
+  },
+  {
+    "id": 5,
+    "first_name": "Baudoin",
+    "last_name": "Maclaine",
+    "email": "bmaclaine4@vimeo.com",
+    "gender": "Male"
+  },
+  {
+    "id": 6,
+    "first_name": "Lorry",
+    "last_name": "Oxshott",
+    "email": "loxshott5@oakley.com",
+    "gender": "Male"
+  },
+  {
+    "id": 7,
+    "first_name": "Miranda",
+    "last_name": "Filby",
+    "email": "mfilby6@dmoz.org",
+    "gender": "Female"
+  },
+  {
+    "id": 8,
+    "first_name": "Ardelle",
+    "last_name": "Tortoishell",
+    "email": "atortoishell7@yale.edu",
+    "gender": "Female"
+  },
+  {
+    "id": 9,
+    "first_name": "Mala",
+    "last_name": "Coggins",
+    "email": "mcoggins8@cbslocal.com",
+    "gender": "Female"
+  },
+  {
+    "id": 10,
+    "first_name": "Gris",
+    "last_name": "Robbel",
+    "email": "grobbel9@digg.com",
+    "gender": "Agender"
+  }
+]
